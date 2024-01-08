@@ -1,0 +1,8 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 1] test cases in the current suite
+Test Method:		[tests.api.users.UserData.GetallPosts]
+################################################################################################################################################
+[ReportManager] An Exception Occured with this Message: Connection timed out: no further information. @24-12-2023 15:44:29.0527 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - java.net.ConnectException] @24-12-2023 15:44:29.0529 PM
+[ReportManager] API Action [performRequest] failed. With the following test data [https://jsonplaceholder.typicode.com/posts]. @24-12-2023 15:44:29.0532 PM

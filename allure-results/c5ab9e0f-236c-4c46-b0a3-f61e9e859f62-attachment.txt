@@ -1,0 +1,21 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: [SHAFT Engine v4.4]
+################################################################################################################################################
+
+################################################################################################################################################
+Starting Execution:	[1 out of 1] test cases in the current suite
+Test Method:		[tests.api.users.UserData.GetallPosts]
+################################################################################################################################################
+[ReportManager] An Exception Occured with this Message: Connection timed out: no further information. @24-12-2023 15:44:29.0527 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - java.net.ConnectException] @24-12-2023 15:44:29.0529 PM
+[ReportManager] API Action [performRequest] failed. With the following test data [https://jsonplaceholder.typicode.com/posts]. @24-12-2023 15:44:29.0532 PM
+
+################################################################################################################################################
+Test Closure Activities
+################################################################################################################################################
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @24-12-2023 15:44:29.0708 PM
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: [SHAFT Engine v4.4]
+SHAFT Engine is licensed under the MIT License: [https://github.com/MohabMohie/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################
